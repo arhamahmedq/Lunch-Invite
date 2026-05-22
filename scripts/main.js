@@ -24,7 +24,7 @@
    ───────────────────────────────────────────────────────────── */
 
 /** ISO date string for the event — e.g. '2025-08-11T12:00:00+08:00' */
-const EVENT_DATE = '2025-05-25T12:00:00+08:00';
+const EVENT_DATE = '2026-05-25T12:00:00+08:00';
 
 /** Supabase project URL — leave '' to use localStorage fallback */
 const SUPABASE_URL = 'https://vqrxuzzwhhxncdwaoaqz.supabase.co';
