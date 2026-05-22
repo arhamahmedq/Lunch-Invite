@@ -27,10 +27,10 @@
 const EVENT_DATE = '2025-05-25T12:00:00+08:00';
 
 /** Supabase project URL — leave '' to use localStorage fallback */
-const SUPABASE_URL = '';
+const SUPABASE_URL = 'https://vqrxuzzwhhxncdwaoaqz.supabase.co';
 
 /** Supabase anon/public key — leave '' to use localStorage fallback */
-const SUPABASE_ANON_KEY = '';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZxcnh1enp3aGh4bmNkd2FvYXF6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk0NDQ0NzgsImV4cCI6MjA5NTAyMDQ3OH0.TVSEtbPLWrS-_-RAQnhTWhtQqs6zGwcBbyywhG6RW74';
 
 /** Supabase table name (must exist — see README) */
 const SUPABASE_TABLE = 'rsvps';
