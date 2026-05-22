@@ -18,4 +18,4 @@ node_modules/
 npm-debug.log*
 
 # Audio file — too large for git, host separately (see README)
-assets/audio/
+# assets/audio/
